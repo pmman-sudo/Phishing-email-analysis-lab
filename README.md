@@ -19,7 +19,8 @@ The phishing email analysis lab aimed to establish a controlled environment for 
 - CyberChef for Forensic, defanging & Decoding Utilities.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+drag & drop screenshots here or use imgur and referen ![Uploading Screenshot_20251124-095306.jpg…]()
+ce them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
