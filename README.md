@@ -26,6 +26,9 @@ As a SOC Level 1 Analyst, I followed a structured investigation to analyze the "
 
 1. Initial Triage and Visual Inspection: 
  I started by examining the suspicious email in Thunderbird to avoid accidental execution.
+<img width="780" height="585" alt="image" src="https://github.com/user-attachments/assets/249439c4-c1f7-4094-b228-f31e35f73b0f" />
+
+<img width="780" height="585" alt="image" src="https://github.com/user-attachments/assets/9d727899-fef3-4fc6-9506-c0eb3f2e261c" />
 
  Observations:
 
@@ -39,6 +42,9 @@ This is a classic "domain spoofing" red flag where the attacker attempts to dive
 
 2. Email Header Analysis:
 I moved beyond the visible fields to inspect the raw headers using Mailheader.org to trace the email's true path.
+
+<img width="780" height="585" alt="image" src="https://github.com/user-attachments/assets/596b383e-7d9d-47cc-90db-66f280099ccb" />
+
 
 ●Locating the Originating IP: I parsed the "Received" headers and identified the originating IP as 192.119.71.157.
 ●WHOIS & IPinfo.io Investigation: I ran a WHOIS lookup and used IPinfo.io to verify the IP owner as Hostwinds LLC
